@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint src"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "remrob",
   "license": "MIT",
