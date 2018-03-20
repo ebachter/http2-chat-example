@@ -1,6 +1,7 @@
 # HTTP/2 Chat Example
 
-This example shows how to implement a bi-directional connectivity over HTTP/2.
+HTTP/2 Chat Example shows how to implement a bi-directional connectivity over HTTP/2.
+This approach can be considered as replacement for web-sockets.
 
 ## Requirements
 - Node.js >= 9.8.0
